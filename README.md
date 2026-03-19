@@ -1,2 +1,3 @@
-# flex-video-platform-xqfr
-Automated issue comment bot repository
+# Flex Video Platform Xqfr
+
+Automated issue comment bot repository.
